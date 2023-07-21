@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/main.js"],"names":["document","querySelector","addEventListener","e","preventDefault"],"mappings":";AAAA,aAEAA,SAASC,cAAc,SAASC,iBAAiB,SAAU,SAACC,GAC1DA,OAAAA,EAAEC","file":"main.7093db55.js","sourceRoot":"..\\src","sourcesContent":["'use strict';\n\ndocument.querySelector('#form').addEventListener('submit', (e) =>\n  e.preventDefault());\n"]}
